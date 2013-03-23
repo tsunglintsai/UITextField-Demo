@@ -51,7 +51,8 @@
 }
 
 // Editing the Text Field’s Text
-- (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string{
+- (BOOL)textField:(UITextField *)textField
+shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string{
     NSLog(@"shouldChangeCharactersInRange");
     return YES;
 }
