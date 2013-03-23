@@ -83,8 +83,6 @@
 		BA528F2F16FE3A9400DB4E23 /* UITextField Demo */ = {
 			isa = PBXGroup;
 			children = (
-				BA528F3816FE3A9400DB4E23 /* AppDelegate.h */,
-				BA528F3916FE3A9400DB4E23 /* AppDelegate.m */,
 				BA528F4116FE3A9500DB4E23 /* MainStoryboard.storyboard */,
 				BA528F4416FE3A9500DB4E23 /* ViewController.h */,
 				BA528F4516FE3A9500DB4E23 /* ViewController.m */,
@@ -96,6 +94,8 @@
 		BA528F3016FE3A9400DB4E23 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BA528F3816FE3A9400DB4E23 /* AppDelegate.h */,
+				BA528F3916FE3A9400DB4E23 /* AppDelegate.m */,
 				BA528F3116FE3A9400DB4E23 /* UITextField Demo-Info.plist */,
 				BA528F3216FE3A9400DB4E23 /* InfoPlist.strings */,
 				BA528F3516FE3A9400DB4E23 /* main.m */,
